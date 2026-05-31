@@ -474,6 +474,11 @@ h1 {
   line-height: 1.55;
 }
 
+.detail-block a{
+  color: #2a2930;
+  text-decoration: solid underline #2a2930;
+}
+
 .date-block strong {
   font-size: 0.86rem;
 }
